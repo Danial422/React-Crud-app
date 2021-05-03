@@ -1,0 +1,39 @@
+export const UserData =[
+    {
+        Id:'15',
+        Name:'Danial',
+        Email:'MuhammadDanial123@gmail.com',
+        Role:'CO',
+        Permissions:'Edit,Modify,Delete,Manage',
+    
+},
+{
+        Id:'167',
+        Name:'Danial',
+        Email:'MuhammadDanial123@gmail.com',
+        Role:'CO',
+        Permissions:'Edit,Modify,Delete,Manage',
+    
+},
+{
+    Id:'1677',
+    Name:'seraj',
+    Email:'MuhammadDanial123@gmail.com',
+    Role:'CO',
+    Permissions:'Edit,Modify,Delete,Manage',
+},
+{
+    Id:'77',
+    Name:'munneir',
+    Email:'MuhammadDanial123@gmail.com',
+    Role:'CO',
+    Permissions:'Edit,Modify,Delete,Manage',
+},
+{
+    Id:'7',
+    Name:'shami',
+    Email:'MuhammadDanial123@gmail.com',
+    Role:'CO',
+    Permissions:'Edit,Modify,Delete,Manage',
+}
+];
